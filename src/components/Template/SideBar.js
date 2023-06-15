@@ -19,14 +19,10 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Raven. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>
+      I&#39;m a Freelancer Front-end Developer with over 10 years of experience. 
+      I&#39;m from Cavite Phillipines. I code and create web elements for amazing people around the world. 
+      I like work with new people. New people new Experiences.
       </p>
       <ul className="actions">
         <li>
