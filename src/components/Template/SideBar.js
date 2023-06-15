@@ -20,9 +20,10 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-      I&#39;m a Freelancer Front-end Developer with over 10 years of experience. 
-      I&#39;m from Cavite Phillipines. I code and create web elements for amazing people around the world. 
-      I like work with new people. New people new Experiences.
+        I&#39;m a Freelancer Front-end Developer with over 10 years of experience.
+        I&#39;m from Cavite Phillipines.
+        I code and create web elements for amazing people around the world.
+        I like work with new people. New people new Experiences.
       </p>
       <ul className="actions">
         <li>
@@ -30,10 +31,9 @@ const SideBar = () => (
         </li>
       </ul>
     </section>
-
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Ferdinand Estoque <Link to="/">ferdinandestoque.com</Link>.</p>
+      <p className="copyright">&copy; Black Raven <Link to="https://ferdinandestoque.com/">https://ferdinandestoque.com/</Link>.</p>
     </section>
   </section>
 );
