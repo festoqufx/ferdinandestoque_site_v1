@@ -14,7 +14,7 @@ const data = [
   {
     title: 'Harvest',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
+    link: '/',
     image: '/images/projects/harvest.jpg',
     date: '2015-09-20',
     desc:
@@ -25,7 +25,7 @@ const data = [
   {
     title: 'Space Potato',
     subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
+    link: '/',
     image: '/images/projects/spacepotato.jpg',
     date: '2015-06-28',
     desc:
