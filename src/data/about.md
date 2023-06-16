@@ -22,15 +22,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # Travel / Geography
 
-- I am from originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York.
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited: Canada, England, France, and Switzerland.
-- In 2020, I barely traveled 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I hope to start traveling again.
-- I am an Oregon Trail II enthusiast.
+Lorem mollis aliquam ut porttitor leo a diam sollicitudin tempor. At volutpat diam ut venenatis tellus in metus vulputate. Pretium quam vulputate dignissim suspendisse in. Arcu cursus vitae congue mauris rhoncus aenean vel elit. Commodo ullamcorper a lacus vestibulum sed. Habitant morbi tristique senectus et netus et malesuada fames. Donec enim diam vulputate ut pharetra sit amet. Enim praesent elementum facilisis leo vel. Neque convallis a cras semper. Elementum sagittis vitae et leo. Cras fermentum odio eu feugiat pretium nibh. Commodo nulla facilisi nullam vehicula ipsum a arcu cursus. Orci nulla pellentesque dignissim enim sit amet. Senectus et netus et malesuada. Felis donec et odio pellentesque diam volutpat commodo. Eu augue ut lectus arcu bibendum at varius vel pharetra. Pulvinar pellentesque habitant morbi tristique senectus et netus.
 
 # Fun facts
 
