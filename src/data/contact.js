@@ -24,7 +24,7 @@ const data = [
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/',
+    link: 'https://www.linkedin.com/in/ferdinand-estoque-46797876/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },

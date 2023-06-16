@@ -31,5 +31,3 @@ Lorem mollis aliquam ut porttitor leo a diam sollicitudin tempor. At volutpat di
 # I dream of
 
 Lorem mollis aliquam ut porttitor leo a diam sollicitudin tempor. At volutpat diam ut venenatis tellus in metus vulputate. Pretium quam vulputate dignissim suspendisse in. Arcu cursus vitae congue mauris rhoncus aenean vel elit. Commodo ullamcorper a lacus vestibulum sed. Habitant morbi tristique senectus et netus et malesuada fames. Donec enim diam vulputate ut pharetra sit amet. Enim praesent elementum facilisis leo vel. Neque convallis a cras semper. Elementum sagittis vitae et leo. Cras fermentum odio eu feugiat pretium nibh. Commodo nulla facilisi nullam vehicula ipsum a arcu cursus. Orci nulla pellentesque dignissim enim sit amet. Senectus et netus et malesuada. Felis donec et odio pellentesque diam volutpat commodo. Eu augue ut lectus arcu bibendum at varius vel pharetra. Pulvinar pellentesque habitant morbi tristique senectus et netus.
-
-If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you.

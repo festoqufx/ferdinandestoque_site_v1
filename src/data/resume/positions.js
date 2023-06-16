@@ -32,7 +32,7 @@ const positions = [
   {
     company: 'NASDAQ',
     position: 'WEB DESIGNER DEVELOPER',
-    link: 'WEB DESIGNER DEVELOPER',
+    link: '#',
     daterange: 'OCT 2014 - APR 2015',
     points: [
       'In aliquam sem fringilla ut morbi tincidunt augue interdum velit. Proin sed libero enim sed faucibus.',
@@ -42,7 +42,7 @@ const positions = [
   {
     company: 'CROSSPOWER PHILS, INC.',
     position: 'MULTIMEDIA WEB DESIGNER',
-    link: 'https://matroid.com',
+    link: '#',
     daterange: 'July 2015 - January 2016',
     points: [
       'Ultrices dui sapien eget mi proin sed libero enim sed. Et malesuada fames ac turpis.',
