@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -13,8 +14,13 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+            Convallis posuere morbi leo urna. Adipiscing elit duis tristique sollicitudin. Egestas diam in arcu cursus euismod.
+            Et netus et malesuada fames ac turpis. Scelerisque in dictum non consectetur a erat nam at.
+            Et netus et malesuada fames ac turpis egestas maecenas. Ornare quam viverra orci sagittis eu volutpat.
+            Faucibus interdum posuere lorem ipsum dolor sit amet consectetur adipiscing. Viverra tellus in hac habitasse.
+            Eget magna fermentum iaculis eu non diam phasellus. A lacus vestibulum sed arcu non. Eget nunc lobortis mattis aliquam faucibus purus.
+            Ipsum a arcu cursus vitae congue mauris rhoncus aenean vel. Mauris vitae ultricies leo integer malesuada nunc. Et netus et malesuada fames ac.
+            Suscipit tellus mauris a diam. Fermentum leo vel orci porta non pulvinar.
           </p>
         </div>
       </header>
