@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-
 import Job from './Experience/Job';
 
 const Experience = ({ data }) => (

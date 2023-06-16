@@ -21,7 +21,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         I&#39;m a Freelancer Front-end Developer with over 10 years of experience.
-        I&#39;m from Cavite Phillipines.
+        I&#39;m from Cavite Philippines.
         I code and create web elements for amazing people around the world.
         I like work with new people. New people new Experiences.
       </p>
@@ -33,7 +33,7 @@ const SideBar = () => (
     </section>
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Black Raven <Link to="https://ferdinandestoque.com/">https://ferdinandestoque.com/</Link>.</p>
+      <p className="copyright">&copy; Black Raven <Link to="https://ferdinandestoque.com/">https://ferdinandestoque.com</Link>.</p>
     </section>
   </section>
 );

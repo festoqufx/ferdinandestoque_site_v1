@@ -5,10 +5,8 @@ const positions = [
     link: '#',
     daterange: 'January 2016 - Present',
     points: [
-      'Deployed quantitative strategies to predict the value of fine art in various pricing contexts.',
-      'Built production, on-line, end-to-end optimized machine learning pipelines with Pandas, Numpy, Scikit, Tensorflow, Dagster, Postgres, etc. on GCP with Kubernetes.',
-      'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-      'YC Alumn. Worked on everything. Built a 16-person team. Operated company for 6+ years.',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ',
     ],
   },
   {
@@ -17,8 +15,8 @@ const positions = [
     link: '#',
     daterange: 'OCT 2015 - JULY 2016',
     points: [
-      'Founded a micro-vc fund to throw token amounts of money at problems I find interesting.',
-      'Created the InstaSafe. Fast, automated investment docs for YC companies.',
+      'Praesent semper feugiat nibh sed pulvinar. Sollicitudin ac orci phasellus egestas tellus. Quam lacus suspendisse faucibus interdum.',
+      'Praesent semper feugiat nibh sed pulvinar. Sollicitudin ac orci phasellus egestas tellus. Quam lacus suspendisse faucibus interdum.',
     ],
   },
   {
@@ -27,9 +25,8 @@ const positions = [
     link: '#',
     daterange: 'MAY 2015 - SEPT 2015',
     points: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
+      'Arcu cursus euismod quis viverra. Adipiscing elit pellentesque habitant morbi tristique.',
+      'Arcu cursus euismod quis viverra. Adipiscing elit pellentesque habitant morbi tristique.',
     ],
   },
   {
@@ -38,8 +35,8 @@ const positions = [
     link: 'WEB DESIGNER DEVELOPER',
     daterange: 'OCT 2014 - APR 2015',
     points: [
-      'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
-      'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
+      'In aliquam sem fringilla ut morbi tincidunt augue interdum velit. Proin sed libero enim sed faucibus.',
+      'In aliquam sem fringilla ut morbi tincidunt augue interdum velit. Proin sed libero enim sed faucibus.',
     ],
   },
   {
@@ -48,8 +45,8 @@ const positions = [
     link: 'https://matroid.com',
     daterange: 'July 2015 - January 2016',
     points: [
-      'Developed end to end machine learning pipeline to train visual classifiers from keywords using Node.JS, Express, Keystone, MongoDB, AWS, S3, Caffe, and other technologies.',
-      'Received Series A term sheets for 20M+ valuations.',
+      'Ultrices dui sapien eget mi proin sed libero enim sed. Et malesuada fames ac turpis.',
+      'Ultrices dui sapien eget mi proin sed libero enim sed. Et malesuada fames ac turpis.',
     ],
   },
   {
@@ -58,9 +55,8 @@ const positions = [
     link: '#',
     daterange: 'FEB 2008 - APR 2013',
     points: [
-      'Built models to improve image quality, signal to noise ratio, and dynamic range.',
-      'Performed statistical analysis of image quality in Matlab and Python.  Developed flight software in C++.',
-      'Organized first hackathon, prototyped hardware, and designed and built photography equipment for rocket launches.',
+      'Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Magna ac placerat vestibulum lectus mauris.',
+      'Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Magna ac placerat vestibulum lectus mauris.',
     ],
   },
 ];
